@@ -1,3 +1,5 @@
+# Expense-Tracker Tech Stack
+
 * Next.js
 * Tailwind CSS
 * Clerk.dev (for authentication)
@@ -8,4 +10,3 @@
 * Rechart (for charts)
 * Toastify (for notification)
 
-# Expense-Tracker
