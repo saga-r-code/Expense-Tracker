@@ -52,9 +52,9 @@ const Hero = () => {
           {/* Right Column - Illustration */}
           <div className="relative  ">
             <div className="absolute inset-0 bg-gradient-to-tr from-[#00BCC6]/20 to-transparent rounded-3xl blur-2xl" />
-            <div className="relative bg-white rounded-3xl shadow-xl shadow-black/10">
+            <div className="relative bg-white/10 p-10 rounded-3xl shadow-xl shadow-black/10">
               <Image
-                src="/expense.png"
+                src="/Expense-tracker.png"
                 alt="Expense Tracking Illustration"
                 width={1000}
                 height={1000}
