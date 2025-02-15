@@ -7,9 +7,9 @@ export const metadata = {
   title: "Expense Tracker Software - Track your expenses easily",
   description: "Expense Tracker Software is a web application that helps you track your expenses easily. It allows you to add, edit, delete and view your expenses. It also provides a summary of your expenses.",
   keywords: "expense tracker, expense tracking software, track expenses, personal finance, budgeting, expense management",
-  authors: "Ahmed Abdalla",
-  creator: "Ahmed Abdalla",
-  publisher: "Ahmed Abdalla",
+  authors: "Sagar Shah",
+  creator: "Sagar Shah",
+  publisher: "Sagar Shah",
   openGraph: {
     title: "Expense Tracker Software",
     description: "Expense Tracker Software is a web application that helps you track your expenses easily. It allows you to add, edit, delete and view your expenses. It also provides a summary of your expenses.",
@@ -29,7 +29,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: "Expense Tracker Software",
     description: "Expense Tracker Software is a web application that helps you track your expenses easily. It allows you to add, edit, delete and view your expenses. It also provides a summary of your expenses.",
-    creator: '@ahmedabdalla_',
+    creator: '@_sagar__1108',
     images: [
       {
         url: '/Expense-tracker.png',
